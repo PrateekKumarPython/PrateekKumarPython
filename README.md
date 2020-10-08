@@ -16,9 +16,6 @@ Python | Data Science | ML | Meteorology
 
 </strong></h2>
 
-
-<table><tr><td valign="top" width="100%">
-
 ### My Youtube Playlist 🔭
 You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
 - [Python Crash Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLkvDyaL7rylRAYNLXi2Zf8kPKqJN0lzCy)
@@ -26,7 +23,7 @@ You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
 - [My own Python Packages](https://www.youtube.com/playlist?list=PLkvDyaL7rylRVnD1qxU-wRCeMlExFwQdW)
 
 
-</td>
+
 
 - 🔭 I’m currently working on **Data Sciences** 
 - 🌱 I’m currently learning about **Version Control Software : Git**
@@ -38,20 +35,13 @@ You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
 - ⚡ Fun fact: Even though I like to contribute in Open Source Projects, I am not so open in real life.
 - ⚡ Hobbies : Table Tennis ,Chess, Music, Singing 
 
-
-
- <details>
-<summary>📊 Github Stats</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
 
-</details>
 
-<details>
-<summary>📊 Top Languages</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
 
-</details>
+
 
 
