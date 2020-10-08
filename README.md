@@ -1,4 +1,4 @@
-<h1 align="center"> PRATEEK KUMAR👋</h1>
+<h1 align="center"> PRATEEK KUMAR  👋</h1>
 <h3 align="center"> Scientist by Profession, Programmer by Passion </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrateekKumarPython" alt="PrateekKumarPython" /> </p>
