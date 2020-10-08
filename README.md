@@ -16,15 +16,6 @@ Python | Data Science | ML | Meteorology
 
 </strong></h2>
 
-### My Youtube Playlist 🔭
-You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
-- [Python Crash Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLkvDyaL7rylRAYNLXi2Zf8kPKqJN0lzCy)
-- [Python for Meterorology and Earth Sciences](https://www.youtube.com/playlist?list=PLkvDyaL7rylRUqOwyFaSeK_IB4oi8KBwM)
-- [My own Python Packages](https://www.youtube.com/playlist?list=PLkvDyaL7rylRVnD1qxU-wRCeMlExFwQdW)
-
-
-
-
 - 🔭 I’m currently working on **Data Sciences** 
 - 🌱 I’m currently learning about **Version Control Software : Git**
 - 👯 I’m looking to collaborate on **Meteorogical Data Science using Python**
@@ -34,6 +25,12 @@ You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
 - 😄 Pronouns: Prateek, PK, Sharma Ji
 - ⚡ Fun fact: Even though I like to contribute in Open Source Projects, I am not so open in real life.
 - ⚡ Hobbies : Table Tennis ,Chess, Music, Singing 
+
+### My Youtube Playlist 🔭
+You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
+- [Python Crash Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLkvDyaL7rylRAYNLXi2Zf8kPKqJN0lzCy)
+- [Python for Meterorology and Earth Sciences](https://www.youtube.com/playlist?list=PLkvDyaL7rylRUqOwyFaSeK_IB4oi8KBwM)
+- [My own Python Packages](https://www.youtube.com/playlist?list=PLkvDyaL7rylRVnD1qxU-wRCeMlExFwQdW)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
 
