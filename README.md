@@ -26,19 +26,13 @@ Python | Data Science | ML | Meteorology
 - ⚡ Fun fact: Even though I like to contribute in Open Source Projects, I am not so open in real life.
 - ⚡ Hobbies : Table Tennis ,Chess, Music, Singing 
 
-### My Youtube Playlist 🔭
-You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
+## Learn Python With Me 🔭
 - [Python Crash Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLkvDyaL7rylRAYNLXi2Zf8kPKqJN0lzCy)
 - [Python for Meterorology and Earth Sciences](https://www.youtube.com/playlist?list=PLkvDyaL7rylRUqOwyFaSeK_IB4oi8KBwM)
 - [My own Python Packages](https://www.youtube.com/playlist?list=PLkvDyaL7rylRVnD1qxU-wRCeMlExFwQdW)
 
+<h2 align="center"> My GitHub Statistics 🔭 </h2>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
-
-
-
-
-
-
-
