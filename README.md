@@ -17,19 +17,14 @@ Python | Data Science | ML | Meteorology
 </strong></h2>
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-### My Digital Galaxy 🔭
+### My Youtube Playlist 🔭
 You can find my blogs at my [Website](https://prateekkumarpython.github.io/).
 - [Python Crash Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLkvDyaL7rylRAYNLXi2Zf8kPKqJN0lzCy)
 - [Python for Meterorology and Earth Sciences](https://www.youtube.com/playlist?list=PLkvDyaL7rylRUqOwyFaSeK_IB4oi8KBwM)
 - [My own Python Packages](https://www.youtube.com/playlist?list=PLkvDyaL7rylRVnD1qxU-wRCeMlExFwQdW)
 
-</td>
-<td valign="top" width="50%">
-
-### The Developer {'Dictionary':⚡}
-Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk):
 
 </td>
 
