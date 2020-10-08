@@ -51,6 +51,6 @@ Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats)  
 
-[youtube]: http://bit.ly/2xk5hNH
-[linkedin]: https://www.linkedin.com/in/prateekkumarpython/
+[Youtube]: http://bit.ly/2xk5hNH
+[Linkedin]: https://www.linkedin.com/in/prateekkumarpython/
 [Facebook]: https://www.facebook.com/prateekkumarpython
