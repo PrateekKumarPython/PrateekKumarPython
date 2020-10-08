@@ -6,24 +6,6 @@
 Python | Data Science | ML | Meteorology
 
 
-- 🔭 I’m currently working on **Data Sciences** 
-- 🌱 I’m currently learning about **Version Control Software : Git**
-- 👯 I’m looking to collaborate on **Meteorogical Data Science using Python**
-- 🤔 I’m looking for help with **Version control using Git** 
-- 💬 Ask me about **Python, Data Sciences, Meteorology**
-- 📫 How to reach me: prateekkumarpython@gmail.com
-- 😄 Pronouns: PK, Sharma Ji
-- ⚡ Fun fact: Even though I like to contribute in Open Source Projects, I am not so open in real life.
-- ⚡ Hobbies : Table Tennis ,Chess, Music, Singing 
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
-
-</details>
-
-
 <table><tr><td valign="top" width="50%">
 
 ### My Digital Galaxy 🔭
@@ -40,8 +22,31 @@ Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk)
 
 </td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296)](https://github.com/anuraghazra/github-readme-stats)<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats)  
+- 🔭 I’m currently working on **Data Sciences** 
+- 🌱 I’m currently learning about **Version Control Software : Git**
+- 👯 I’m looking to collaborate on **Meteorogical Data Science using Python**
+- 🤔 I’m looking for help with **Version control using Git** 
+- 💬 Ask me about **Python, Data Sciences, Meteorology**
+- 📫 How to reach me: prateekkumarpython@gmail.com
+- 😄 Pronouns: Prateek, PK, Sharma Ji
+- ⚡ Fun fact: Even though I like to contribute in Open Source Projects, I am not so open in real life.
+- ⚡ Hobbies : Table Tennis ,Chess, Music, Singing 
+
+
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
+
+</details>
+
+<details>
+<summary>📊 Top Languages</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats" />
+
+</details>
 
 
 <h3><strong>connect with me!</strong></h3><br><br>
