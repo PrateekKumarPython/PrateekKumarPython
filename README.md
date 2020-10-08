@@ -5,14 +5,6 @@
 
 Python | Data Science | ML | Meteorology
 
-<p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-<br />
-<hr />
-
 
 - 🔭 I’m currently working on **Data Sciences** 
 - 🌱 I’m currently learning about **Version Control Software : Git**
@@ -51,6 +43,11 @@ Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekkumarpython&show_icons=true&theme=gotham" alt="Prateek Kumar | Stats)  
 
-[Youtube]: http://bit.ly/2xk5hNH
-[Linkedin]: https://www.linkedin.com/in/prateekkumarpython/
-[Facebook]: https://www.facebook.com/prateekkumarpython
+
+<h3><strong>connect with me!</strong></h3><br><br>
+
+<p align="center"> 
+<a href="https://fb.com/prateekkumarpython" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prateekkumarpython" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/prateekkumarpython" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prateekkumarpython" height="30" width="30" /></a>
+<a href="http://bit.ly/2xk5hNH" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shivant pandey" height="30" width="30" /></a>
+</p>
